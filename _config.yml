@@ -32,8 +32,8 @@ app:
   # e.g. images/app-preview.mp4
   # 640x1136px
 
-  app_twitter: "@CodeForOrlando" # uncomment if the app has a twitter account "@my-awesome-app"
-  creator_twitter: "@arivera" # uncomment if creator has a twitter account "@awesome-dev"
+  app_twitter: "CodeForOrlando" # uncomment if the app has a twitter account "@my-awesome-app"
+  creator_twitter: "arivera" # uncomment if creator has a twitter account "@awesome-dev"
   #social_image: # uncomment and add an image - defaults to icon
   # This will show up when your url is shared on sites like facebook and twitter
   # To update use path relative to project root with no leading slash:
@@ -42,7 +42,7 @@ app:
 #
 # Marketing
 #
-marketing_header: Graffiti and Street Art # Optional
+marketing_header: Graffiti and Street Art
 marketing_desc: With the Street Art Orlando app, it's easy to explore street art all through Orlando, FL. You can also help our community by uploading new and undiscovered street art from your neighborhood or district. 
 
 #
