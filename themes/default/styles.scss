@@ -12,7 +12,7 @@ body {
   min-height: 100%;
 }
 
-body {
+body#sao-background-image {
   {% if site.background_color %}
   background-color: {{ site.background_color }};
   {% endif %}
@@ -31,7 +31,28 @@ body {
 
   font-size: 18px;
   -moz-osx-font-smoothing: grayscale;
-   -webkit-font-smoothing: antialiased;
+  -webkit-font-smoothing: antialiased;
+}
+
+body#sao-background {
+  {% if site.background_color %}
+  background-color: {{ site.background_color }};
+  {% endif %}
+
+  {% if site.text_color %}
+  color: {{ site.text_color }};
+  {% endif %}
+
+  font-size: 18px;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+
+  max-width: 800px;
+  margin: auto;
+
+  ul {
+    list-style-type: none;
+  }
 }
 
 a {
