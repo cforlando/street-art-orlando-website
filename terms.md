@@ -4,7 +4,7 @@ layout: legal
 
 # STREET ART ORLANDO TERMS OF SERVICE
 
-Welcome to Street Art Orlando! These Terms of Service agreement (together with Street Art Orlando's Privacy Policy streetartorlando.com/privacy), DMCA Copyright Policy ([streetartorlando.com/dmca]({{ site.baseurl }}{% link dmca.html %}), and Community Guidelines (streetartorlando.com/community-guidelines), the “Terms”) govern your access and use of the Street Art Orlando App (the “App”) and all other products, services, features, content or applications that link to these Terms (together with the App, the “Services”) offered by Street Art Orlando (“we”, “us” or “our”).
+Welcome to Street Art Orlando! These Terms of Service agreement (together with Street Art Orlando's Privacy Policy streetartorlando.com/privacy), DMCA Copyright Policy ([streetartorlando.com/dmca]({{ site.baseurl }}{% link dmca.md %})), and Community Guidelines (streetartorlando.com/community-guidelines), the “Terms”) govern your access and use of the Street Art Orlando App (the “App”) and all other products, services, features, content or applications that link to these Terms (together with the App, the “Services”) offered by Street Art Orlando (“we”, “us” or “our”).
 
 Please read these Terms fully and carefully before using the Services, because these Terms form a legally binding contract between you and Rivera Labs for your use of the Services. As described in Section 12, you agree that unless you opt out, all disputes between you and Rivera Labs will be resolved by individual arbitration, and you waive your right to trial by jury, or to participate in a class action lawsuit or class-wide arbitration.
 
